@@ -3,9 +3,7 @@
 
 from openupgradelib import openupgrade  # pylint: disable=W7936
 
-
-@openupgrade.migrate()
-def migrate(env, version):
+def migrate(cr, version):
     openupgrade.load_data(
-        env.cr, "sale_order_type", "migrations/14.0.1.0.0/noupdate_changes.xml"
+        cr, "sale_order_type", "migrations/14.0.1.0.0/noupdate_changes.xml"
     )
