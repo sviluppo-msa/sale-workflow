@@ -51,7 +51,7 @@ addon | version | maintainers | summary
 [sale_order_note_template](sale_order_note_template/) | 14.0.1.0.0 |  | Add sale orders terms and conditions template that can be used to quickly fullfill sale order terms and conditions
 [sale_order_qty_change_no_recompute](sale_order_qty_change_no_recompute/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Prevent recompute if only quantity has changed in sale order line
 [sale_order_revision](sale_order_revision/) | 14.0.1.0.0 |  | Keep track of revised quotations
-[sale_order_type](sale_order_type/) | 14.0.1.0.1 |  | Sale Order Type
+[sale_order_type](sale_order_type/) | 14.0.1.1.0 |  | Sale Order Type
 [sale_partner_incoterm](sale_partner_incoterm/) | 14.0.1.0.0 |  | Set the customer preferred incoterm on each sales order
 [sale_pricelist_from_commitment_date](sale_pricelist_from_commitment_date/) | 14.0.1.0.1 |  | Use sale order commitment date to compute line price from pricelist
 [sale_product_brand_exception](sale_product_brand_exception/) | 14.0.1.0.0 |  | Define rules for sale order and brands
@@ -66,6 +66,7 @@ addon | version | maintainers | summary
 [sale_start_end_dates](sale_start_end_dates/) | 14.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Adds start date and end date on sale order lines
 [sale_stock_picking_blocking](sale_stock_picking_blocking/) | 14.0.1.0.1 |  | Allow you to block the creation of deliveries from a sale order.
 [sale_tier_validation](sale_tier_validation/) | 14.0.1.0.0 |  | Extends the functionality of Sale Orders to support a tier validation process.
+[sale_transaction_form_link](sale_transaction_form_link/) | 14.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to display a link to payment transactions on Sale Order form view.
 [sale_validity](sale_validity/) | 14.0.1.0.2 |  | Set a default validity delay on quotations
 [sale_wishlist](sale_wishlist/) | 14.0.1.0.1 |  | Handle sale wishlist for partners
 [sales_team_security](sales_team_security/) | 14.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | New group for seeing only sales channel's documents
